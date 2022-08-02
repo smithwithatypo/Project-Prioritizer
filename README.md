@@ -1,2 +1,3 @@
 # Project-Prioritizer
-### Software to organize projects when you're feeling overwhelmed.
+Use this software when you're feeling overwhelmed with projects. <br>
+Start with Logic.ipynb
